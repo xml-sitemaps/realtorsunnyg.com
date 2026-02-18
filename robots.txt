@@ -1,0 +1,9 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://realtorsunnyg.com/sitemap.xml
+
+##LLMS reference for internal tracking 
+##LLMS: 
+
+Sitemap: 
