@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+  <head><title>Robots.txt</title></head>
+  <body>
+    <h1>Custom robots.txt</h1>
+    <p><a href="robots.txt">View robots.txt</a></p>
+  </body>
+</html>
