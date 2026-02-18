@@ -4,6 +4,6 @@ Disallow:
 Sitemap: https://realtorsunnyg.com/sitemap.xml
 
 ##LLMS reference for internal tracking 
-##LLMS: 
+##LLMS: https://xml-sitemaps.github.io/realtorsunnyg.com/llms.txt
 
-Sitemap: 
+Sitemap: https://xml-sitemaps.github.io/realtorsunnyg.com/sitemap-llms.xml
